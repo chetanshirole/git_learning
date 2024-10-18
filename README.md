@@ -1,5 +1,5 @@
 # KnowledgeGate learning git project
 this is only for students!
 
-this is second 
+this is second (we update it)
 
